@@ -1,0 +1,30 @@
+{
+  "name": "ecom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^2.0.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-fileupload": "^0.3.0",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.6",
+    "express-validator": "^4.3.0",
+    "fs-extra": "^5.0.0",
+    "mkdirp": "^0.5.1",
+    "mongoose": "^4.13.7",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "resize-img": "^1.1.2"
+  }
+}
