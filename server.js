@@ -10,7 +10,8 @@ var path = require('path')
 var app = express()
 var MongoStore = require('connect-mongo')(session)
 var passport = require('passport')
-
+const compression = require('helmet')
+const helmet = require('helmet')
 //connect
 mongoose.Promise = global.Promise
  mongoose.connect('mongodb://localhost/ecom', {useMongoClient: true})
