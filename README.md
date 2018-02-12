@@ -27,6 +27,8 @@
 
 ![alt text](https://github.com/noorboeing777/Ecommerce-Nodejs-/blob/master/screenshot/3.png)
 
+##### admin panel
 ![alt text](https://github.com/noorboeing777/Ecommerce-Nodejs-/blob/master/screenshot/4.png)
 
+##### user comment and rate
 ![alt text](https://github.com/noorboeing777/Ecommerce-Nodejs-/blob/master/screenshot/5.png)
